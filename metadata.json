@@ -1,0 +1,6 @@
+{
+  "name": "AI HEALTH CARE",
+  "description": "AI-powered multilingual healthcare screening, diagnostic voice assistant in Kannada, Hindi, and English, multimodal issue analysis, and voice-assisted medicine ordering.",
+  "requestFramePermissions": ["microphone", "camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
